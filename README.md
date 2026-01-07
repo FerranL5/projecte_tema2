@@ -16,7 +16,7 @@ Aquest projecte és un gestor de tasques desenvolupat amb React. Permet crear, l
 1. Clonar el repositori:
 
 ```bash
-git clone 
+git clone https://github.com/FerranL5/projecte_tema2.git
 cd projecte_tema2
 ```
 
